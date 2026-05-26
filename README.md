@@ -57,7 +57,27 @@
 
 <img width="840" height="292" alt="WhatsApp Image 2026-05-22 at 15 16 02 (1)" src="https://github.com/user-attachments/assets/eb3c457a-b731-4f78-b634-084411cd9318" />
 
+- # Preguntas:
+1. ¿Qué diferencias encontraron entre trabajar solo con Git y trabajar con GitHub?
+2. ¿Para qué sirve el repositorio remoto?
+3. ¿Qué ventajas encontraron al utilizar branches?
+4. ¿Qué importancia tiene el README dentro de un proyecto?
+5. ¿Qué problemas podrían surgir si todos trabajaran directamente sobre main?
+6. Explicar:
+cómo se organizó el grupo
+qué dificultades tuvieron
+qué aprendieron sobre trabajo colaborativo en desarrollo de software
 
+- # Respuestas:
+
+1. En GitHub se puede trabajar simultáneamente entre varias computadoras facilitando el trabajo colaborativo. En cambio en Git se trabaja solamente de manera local por ende todos los cambios quedan en una sola computadora.
+2. El repositorio remoto sirve para que los integrantes puedan acceder de una misma forma y manera al proyecto sin necesidad de estar en la misma computadora sincronizando todos los cambios de diferentes integrantes.
+3. Las Ramas permiten trabajar en diferentes partes del proyecto sin modificar directamente la rama principal, encontramos ventajas como que cada integrante puede trabajar en una función distinta, se evitan conflictos innecesarios y se facilita la organización del equipo
+4. El README es importante porque explica de qué trata el proyecto, cómo funciona, qué tecnologías utiliza y quiénes participaron. También sirve para organizar la información del trabajo y ayudar a otras personas a entender el proyecto rápidamente.
+5. Podrían producirse conflictos entre archivos, pérdida de cambios, errores en el proyecto y desorganización del trabajo. Además, sería más difícil controlar qué hizo cada integrante y corregir errores si algo falla.
+6. El grupo se organizó dividiendo las tareas entre los tres integrantes. Uno creó y administró el repositorio, otro realizó mejoras visuales en la landing y otro creó la nueva página de búsqueda de cuidadores y la vinculó con la principal.
+La principal dificultad fue en el momento de inicializar el bash al comienzo, ya que no funcionaba el comando "git clone" debido a que estaba mal ubicado en la carpeta previamente creada. 
+Aprendimos la importancia del trabajo colaborativo, la organización en equipo y el uso de herramientas como Git y GitHub para desarrollar proyectos de manera más ordenada y profesional.
 
 
 
